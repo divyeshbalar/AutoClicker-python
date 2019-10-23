@@ -1,3 +1,8 @@
+##@Author Divyeshkumar Balar
+##@Email Divyeshkumar_balar@outlook.com
+##Base code is taken from https://github.com/isaychris
+##
+
 import pyautogui
 import threading
 import time
