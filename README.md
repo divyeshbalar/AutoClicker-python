@@ -9,3 +9,5 @@ PRE-REQUIREMENTS
 pip install pyautogui
 pip install pynput
 python3 pyautoclicker.py
+
+Base code is taken from https://github.com/isaychris
